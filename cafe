@@ -1,0 +1,737 @@
+{
+  "type": "flex",
+  "altText": "data",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "職人淬",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "☕評價:0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "📍231新北市新店區民權路42巷6弄3號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "!name 職人淬"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "咖啡學人-老傑克 The Cafeist & Old Jack",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "☕評價:5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "📍100台北市中正區金門街4號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "!name 咖啡學人-老傑克 The Cafeist & Old Jack"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "吃人說夢",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "☕評價:4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "📍新北市 三峽鎮中山路171號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "!name 吃人說夢"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "TOAST CHAT",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "☕評價:5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "📍台北市大安區光復南路290巷58號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "!name TOAST CHAT"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": " CAFELAURENT",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "☕評價:0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "📍台北市大安區忠孝東路四段219號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "!name  CAFELAURENT"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "曼曼咖啡",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "☕評價:0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "📍新北市淡水區英專路65巷14號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "!name 曼曼咖啡"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "蜂巢咖啡",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "☕評價:5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "📍新北市永和區永貞路214號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "!name 蜂巢咖啡"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip11.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "馬崗街27號咖啡小館",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                },
+                {
+                  "type": "text",
+                  "text": "☕評價:5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "md",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "📍228新北市貢寮區馬崗街27號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "!name 馬崗街27號咖啡小館"
+        }
+      }
+    ]
+  }
+}
