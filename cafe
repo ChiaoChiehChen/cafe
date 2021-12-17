@@ -20,7 +20,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "Trine&zen 崔妮傑恩 微風中研院店",
+              "text": "1:12",
               "weight": "bold",
               "size": "sm",
               "wrap": true
@@ -32,31 +32,31 @@
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "text",
-                  "text": "☕評價:0",
+                  "text": "☕5",
                   "size": "xs",
                   "color": "#8c8c8c",
                   "margin": "md",
@@ -75,7 +75,7 @@
                   "contents": [
                     {
                       "type": "text",
-                      "text": "📍115台北市南港區研究院路二段128號",
+                      "text": "📍100台北市中正區羅斯福路四段92號(11號攤位)",
                       "wrap": true,
                       "color": "#8c8c8c",
                       "size": "xs",
@@ -92,7 +92,7 @@
         "action": {
           "type": "message",
           "label": "action",
-          "text": "!name Trine&zen 崔妮傑恩 微風中研院店"
+          "text": "!name 1:12"
         }
       },
       {
@@ -111,7 +111,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "微貳獨冊（自由咖啡ZU CAFE）",
+              "text": "貓圖咖啡 CAT.jpg",
               "weight": "bold",
               "size": "sm",
               "wrap": true
@@ -147,7 +147,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "☕評價:5",
+                  "text": "☕5",
                   "size": "xs",
                   "color": "#8c8c8c",
                   "margin": "md",
@@ -166,7 +166,7 @@
                   "contents": [
                     {
                       "type": "text",
-                      "text": "📍台北市大安區光復南路346巷56號",
+                      "text": "📍台北市大安區潮州街154號",
                       "wrap": true,
                       "color": "#8c8c8c",
                       "size": "xs",
@@ -183,7 +183,7 @@
         "action": {
           "type": "message",
           "label": "action",
-          "text": "!name 微貳獨冊（自由咖啡ZU CAFE）"
+          "text": "!name 貓圖咖啡 CAT.jpg"
         }
       },
       {
@@ -202,7 +202,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "光孚空間",
+              "text": "I/b/t coffee ",
               "weight": "bold",
               "size": "sm",
               "wrap": true
@@ -214,31 +214,31 @@
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "text",
-                  "text": "☕評價:0",
+                  "text": "☕5",
                   "size": "xs",
                   "color": "#8c8c8c",
                   "margin": "md",
@@ -257,7 +257,7 @@
                   "contents": [
                     {
                       "type": "text",
-                      "text": "📍台北市大安區基隆路二段132巷15號1樓",
+                      "text": "📍台北市復興北路148號1樓",
                       "wrap": true,
                       "color": "#8c8c8c",
                       "size": "xs",
@@ -274,7 +274,7 @@
         "action": {
           "type": "message",
           "label": "action",
-          "text": "!name 光孚空間"
+          "text": "!name I/b/t coffee "
         }
       },
       {
@@ -293,7 +293,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "別所 Shelter",
+              "text": "herzmoment 笛瑟甜點工坊",
               "weight": "bold",
               "size": "sm",
               "wrap": true
@@ -325,11 +325,11 @@
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "text",
-                  "text": "☕評價:4",
+                  "text": "☕5",
                   "size": "xs",
                   "color": "#8c8c8c",
                   "margin": "md",
@@ -348,7 +348,7 @@
                   "contents": [
                     {
                       "type": "text",
-                      "text": "📍台北市大同區承德路三段51巷18號",
+                      "text": "📍110台北市信義區虎林街202巷66號",
                       "wrap": true,
                       "color": "#8c8c8c",
                       "size": "xs",
@@ -365,7 +365,7 @@
         "action": {
           "type": "message",
           "label": "action",
-          "text": "!name 別所 Shelter"
+          "text": "!name herzmoment 笛瑟甜點工坊"
         }
       },
       {
@@ -384,7 +384,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "理想。時光",
+              "text": "光景 SCENE SELECT",
               "weight": "bold",
               "size": "sm",
               "wrap": true
@@ -411,16 +411,16 @@
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "text",
-                  "text": "☕評價:3.5",
+                  "text": "☕5",
                   "size": "xs",
                   "color": "#8c8c8c",
                   "margin": "md",
@@ -439,7 +439,7 @@
                   "contents": [
                     {
                       "type": "text",
-                      "text": "📍台北市大安區信義路四段30巷50弄1號",
+                      "text": "📍台北市松山區健康路11-1號",
                       "wrap": true,
                       "color": "#8c8c8c",
                       "size": "xs",
@@ -456,7 +456,7 @@
         "action": {
           "type": "message",
           "label": "action",
-          "text": "!name 理想。時光"
+          "text": "!name 光景 SCENE SELECT"
         }
       },
       {
@@ -475,7 +475,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "自在田",
+              "text": "咖啡走廊",
               "weight": "bold",
               "size": "sm",
               "wrap": true
@@ -487,22 +487,22 @@
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                 },
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                 },
                 {
                   "type": "icon",
@@ -511,7 +511,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "☕評價:4",
+                  "text": "☕0",
                   "size": "xs",
                   "color": "#8c8c8c",
                   "margin": "md",
@@ -530,7 +530,7 @@
                   "contents": [
                     {
                       "type": "text",
-                      "text": "📍台北市文山區老泉街45巷27號",
+                      "text": "📍新北市新店區中央五街5號",
                       "wrap": true,
                       "color": "#8c8c8c",
                       "size": "xs",
@@ -547,7 +547,7 @@
         "action": {
           "type": "message",
           "label": "action",
-          "text": "!name 自在田"
+          "text": "!name 咖啡走廊"
         }
       },
       {
@@ -566,7 +566,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "亞曼手工咖啡館",
+              "text": "喵吧咖啡廳 - meow bar",
               "weight": "bold",
               "size": "sm",
               "wrap": true
@@ -593,7 +593,7 @@
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
                 },
                 {
                   "type": "icon",
@@ -602,7 +602,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "☕評價:4",
+                  "text": "☕3.5",
                   "size": "xs",
                   "color": "#8c8c8c",
                   "margin": "md",
@@ -621,7 +621,7 @@
                   "contents": [
                     {
                       "type": "text",
-                      "text": "📍新北市三重區中正北路19號",
+                      "text": "📍台北市松山區南京東路5段123巷1弄11號",
                       "wrap": true,
                       "color": "#8c8c8c",
                       "size": "xs",
@@ -638,7 +638,7 @@
         "action": {
           "type": "message",
           "label": "action",
-          "text": "!name 亞曼手工咖啡館"
+          "text": "!name 喵吧咖啡廳 - meow bar"
         }
       },
       {
@@ -657,7 +657,7 @@
           "contents": [
             {
               "type": "text",
-              "text": " 好物Spirit咖啡",
+              "text": "o'time cafe",
               "weight": "bold",
               "size": "sm",
               "wrap": true
@@ -689,11 +689,11 @@
                 {
                   "type": "icon",
                   "size": "xs",
-                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
                 },
                 {
                   "type": "text",
-                  "text": "☕評價:4",
+                  "text": "☕5",
                   "size": "xs",
                   "color": "#8c8c8c",
                   "margin": "md",
@@ -712,7 +712,7 @@
                   "contents": [
                     {
                       "type": "text",
-                      "text": "📍台北市大安區安和路二段189巷17號",
+                      "text": "📍10491台北市中山區天津街56-20號",
                       "wrap": true,
                       "color": "#8c8c8c",
                       "size": "xs",
@@ -729,7 +729,7 @@
         "action": {
           "type": "message",
           "label": "action",
-          "text": "!name  好物Spirit咖啡"
+          "text": "!name o'time cafe"
         }
       }
     ]

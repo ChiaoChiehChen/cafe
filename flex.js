@@ -45,8 +45,8 @@ export default async (event) => {
   //   flex.contents.contents.body.contents[1].contents[4].url = 'https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png'
   // }
 
-  // ==> 修改用 for 迴圈使用 cafaArr 內的索引
-  // ==> 星星用三元運算子判斷
+  // 用 for 迴圈使用 cafeArr 內的索引
+  // ==> 星星三元運算子判斷
   for (const index of cafeArr) {
     flex.contents.contents.push(
       {
@@ -101,7 +101,7 @@ export default async (event) => {
                 },
                 {
                   type: 'text',
-                  text: '☕評價:' + data[index].tasty + '',
+                  text: '☕' + data[index].tasty + '',
                   size: 'xs',
                   color: '#8c8c8c',
                   margin: 'md',
@@ -145,6 +145,7 @@ export default async (event) => {
 
   event.reply(flex)
   // console.log(flex)
+  // fs.writeFileSync( file, data, [options] )
   fs.writeFileSync('cafe', JSON.stringify(flex, null, 2))
 }
 // if (flex.length > 0) {
