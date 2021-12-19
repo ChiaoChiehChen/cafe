@@ -6,7 +6,7 @@
   
 ___
 <a href="#line加好友">line加好友</a>  
-<a href="#使用介紹">使用介紹</a>
+<a href="#使用介紹">使用介紹</a>  
 <a href="#API資訊">API資訊</a>
 ## line加好友
 - Line ID:  
