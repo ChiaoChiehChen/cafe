@@ -3,16 +3,16 @@
  大台北地區咖啡廳走透透  
   
 ___
-<a href="#line加好友">line加好友</a>  
-<a href="#使用介紹">使用介紹</a>  
-<a href="#API資訊">API資訊</a>
+- <a href="#line加好友">line加好友</a>  
+- <a href="#使用介紹">使用介紹</a>  
+- <a href="#API資訊">API資訊</a>
 ## line加好友
 - Line ID: **<font color=blue>@287fdpvn</font>**  
 
 - 掃描下方 QR code  
 ![QR code](./img/QRcode.png)  
 - 加入好友畫面  
-![QR code](./img/1.linefriend.png) 
+![lineFriend](./img/1.linefriend.png){:height="50%" width="50%"}
 
 ___
 ## 使用介紹
