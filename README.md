@@ -2,7 +2,6 @@
 ## 咖啡廳? Coffee-IN☕! 
  大台北地區咖啡廳走透透  
   
-___
 - <a href="#line加好友">line加好友</a>  
 - <a href="#使用介紹">使用介紹</a>  
 - <a href="#API資訊">API資訊</a>
