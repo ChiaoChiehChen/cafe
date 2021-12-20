@@ -11,12 +11,12 @@
 - 掃描下方 QR code  
 ![QR code](./img/QRcode.PNG)  
 - 加入好友畫面  
-<img src="./img/1.linefriend.PNG" alt="linefriend" width = "25%" height = "25%">
+<img src="./img/1.linefriend.PNG" alt="linefriend" width = "50%" height = "50%">
 
 ___
 ## 使用介紹
 ### 點選下方選單'使用介紹'  
-<img src="./img/2.introduce.png" alt="使用介紹" width = "50%" height = "50%">
+<img src="./img/2.introduce.png" alt="使用介紹" width = "40%" height = "40%">
   
 1. 查詢咖啡店，傳送「!name 咖啡廳店名」，機器人將會快速答覆店家位置及資訊。
 <img src="./img/3.cafename.PNG" alt="咖啡店" width = "50%" height = "50%">
