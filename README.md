@@ -11,7 +11,7 @@
 - 掃描下方 QR code  
 ![QR code](./img/QRcode.PNG)  
 - 加入好友畫面  
-<img src="./img/1.linefriend.PNG" alt="linefriend" width = "50%" height = "50%">
+<img src="./img/1.linefriend.PNG" alt="linefriend" width = "25%" height = "25%">
 
 ___
 ## 使用介紹
