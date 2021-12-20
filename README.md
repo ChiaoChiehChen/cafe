@@ -9,9 +9,9 @@
 - Line ID: **<font color=blue>@287fdpvn</font>**  
 
 - 掃描下方 QR code  
-![QR code](./img/QRcode.png)  
+![QR code](./img/QRcode.PNG)  
 - 加入好友畫面  
-![lineFriend](./img/1.linefriend.png){:height="50%" width="50%"}
+![lineFriend](./img/1.linefriend.PNG){:height="50%" width="50%"}
 
 ___
 ## 使用介紹
@@ -19,10 +19,10 @@ ___
 ![使用介紹](./img/2.introduce.png)
   
 1. 查詢咖啡店，傳送「!name 咖啡廳店名」，機器人將會快速答覆店家位置及資訊。
-![咖啡店](./img/3.cafename.png)
+![咖啡店](./img/3.cafename.PNG)
   
 2. 輸入「不限時」，機器人將答覆您 8 家大台北地區用餐不限時間的咖啡廳。
-![不限時](./img/4.nolimitedtime.png)
+![不限時](./img/4.nolimitedtime.PNG)
   
 3. 傳送 「位置資訊」，即可查詢距離您 5 公里處的 5 家咖啡廳。
 ![位置資訊1](./img/5.location.png)
@@ -32,18 +32,18 @@ ___
   
 4. 點選選單「烘焙小知識」
 ![烘焙小知識1](./img/6.roatedbeans.png)
-![烘焙小知識2](./img/6-1.roatedbeans.png)
-![烘焙小知識3](./img/6-2.roatedbeans.png)
+![烘焙小知識2](./img/6-1.roatedbeans.PNG)
+![烘焙小知識3](./img/6-2.roatedbeans.PNG)
   
 5. 點選「咖啡豆小知識」
 ![咖啡豆小知識1](./img/7.coffeebeans.png)
-![咖啡豆小知識2](./img/7-1.coffeebeans.png)
-![咖啡豆小知識3](./img/7-2.coffeebeans.png)
-![咖啡豆小知識4](./img/7-3.coffeebeans.png)
+![咖啡豆小知識2](./img/7-1.coffeebeans.PNG)
+![咖啡豆小知識3](./img/7-2.coffeebeans.PNG)
+![咖啡豆小知識4](./img/7-3.coffeebeans.PNG)
   
 6. 點選「Metro Taipei」，連結外部台北捷運站路線圖
 ![Metro Taipei1](./img/8.MetroTaipei.png)
-![Metro Taipei2](./img/8-1.MetroTaipei.png)
+![Metro Taipei2](./img/8-1.MetroTaipei.PNG)
 
 ___
 ## API資訊
